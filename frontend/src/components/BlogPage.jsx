@@ -2,7 +2,7 @@ import React, { useState, useMemo } from "react";
 import BlogCards from "./BlogCards";
 import Pagination from "./Pagination";
 import CategorySelection from "./CategorySelection";
-import SideBar from "./Sidebar";
+import SideBar from "./SideBar";
 import { blogsData } from "../data/blogsData";
 
 const BlogPage = () => {
